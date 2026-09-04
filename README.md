@@ -2,7 +2,7 @@
 
 A fast, reliable, and open-source Discord bot built with Python that fetches live fiat and cryptocurrency exchange rates.
 
-![Demo](demo2.jpg)
+![Demo](demo2.gif)
 
 ## Features
 - **Live Fiat Rates:** Uses the [ExchangeRate-API](https://www.exchangerate-api.com/) for accurate global currencies.
