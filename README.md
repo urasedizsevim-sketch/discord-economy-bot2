@@ -15,5 +15,5 @@ A fast, reliable, and open-source Discord bot built with Python that fetches liv
 
 1. **Clone the repository:**
    ```bash
-   git clone [[https://github.com/uras-ediz/currency-converter-bot.git](https://github.com/uras-ediz/currency-converter-bot.git)](https://github.com/urasedizsevim-sketch/discord-economy-bot2)
+   git clone https://github.com/urasedizsevim-sketch/discord-economy-bot2
    cd discord-economy-bot2
